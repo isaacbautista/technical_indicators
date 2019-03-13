@@ -1,4 +1,4 @@
-# A technical indicators library written in Python3
+# TA - A technical indicators library written in Python3
 
 ## General
 
